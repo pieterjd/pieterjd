@@ -19,6 +19,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Get git-commit-id-plugin working with heroku](http://www.pieterjd.be/posts/heroku-and-git-commit-id-plugin/)
+- [IntelliJ Find and Replace with regular expressions](http://www.pieterjd.be/posts/intellij-replace-regex/)
+- [Deploy Hugo generated site to Github Pages](http://www.pieterjd.be/posts/deploy-hugo-site-to-ghpages/)
+- [Moving from Jekyll to Hugo](http://www.pieterjd.be/posts/moving-from-jekyll-to-hugo/)
+- [Colors for your presentations](http://www.pieterjd.be/posts/2019-11-11-colors-for-presentations/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://www.pieterjd.be)
