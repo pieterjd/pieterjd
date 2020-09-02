@@ -3,7 +3,6 @@
 <!--
 **pieterjd/pieterjd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a sideproject during my free time
 - 🌱 I’m currently learning AEM for the renewal of my certificate
@@ -22,3 +21,5 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://www.pieterjd.be)
+---
+<img src="https://github-readme-stats.vercel.app/api?username=pieterjd&show_icons=true&hide_border=true" />
