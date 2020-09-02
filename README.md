@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m currently working on a sideproject during my free time
-- 🌱 I’m currently learning AEM for the renewal of my certificate
+- 🌱 -I’m currently learning AEM for the renewal of my certificate- I passed the exam, I'm now a certified Adobe Experience Manager Developer! 🥇🕺
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,6 +14,9 @@
 - 😄 Pronouns: ...
 -->
 - ⚡ Fun fact: I once appeared in a game show :)
+
+---
+<img src="https://github-readme-stats.vercel.app/api?username=pieterjd&show_icons=true&hide_border=true" />
 
 ### 📕 Latest Blog Posts
 
@@ -26,5 +29,8 @@
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://www.pieterjd.be)
----
-<img src="https://github-readme-stats.vercel.app/api?username=pieterjd&show_icons=true&hide_border=true" />
+
+### My favorite Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
