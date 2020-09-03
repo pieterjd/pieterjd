@@ -41,4 +41,4 @@
 ![](https://img.shields.io/badge/Tool-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-spring-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Frontend-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Frontend-Vue.js-informational?style=flat&logo=vue-dot-js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Frontend-Vue.js-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
