@@ -43,7 +43,7 @@
 
 <!-- Language -->
 ![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 
 <!-- Tools -->
 ![](https://img.shields.io/badge/Tool-Maven-informational?style=flat&logo=maven&logoColor=white&color=2bbc8a)
