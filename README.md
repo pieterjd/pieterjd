@@ -21,11 +21,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Adventures with Microsoft Azure](http://www.pieterjd.be/posts/adventures-with-azure/)
+- [Hello World - Spring Cloud Version](http://www.pieterjd.be/posts/hello-world-spring-cloud-version/)
 - [Tools for Mac OS I use for easier development](http://www.pieterjd.be/posts/mac-free-tools/)
 - [Get git-commit-id-plugin working with heroku](http://www.pieterjd.be/posts/heroku-and-git-commit-id-plugin/)
 - [IntelliJ Find and Replace with regular expressions](http://www.pieterjd.be/posts/intellij-replace-regex/)
-- [Deploy Hugo generated site to Github Pages](http://www.pieterjd.be/posts/deploy-hugo-site-to-ghpages/)
-- [Moving from Jekyll to Hugo](http://www.pieterjd.be/posts/moving-from-jekyll-to-hugo/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://www.pieterjd.be)
