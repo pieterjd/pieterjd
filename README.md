@@ -21,11 +21,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Minified Javascript in AEM Clientlibs breaks the build](http://www.pieterjd.be/posts/minified-javascript-in-aem-clientlib/)
 - [Automate Angular Material Workflow using Schematics](http://www.pieterjd.be/posts/automate-angular-material-workflow-with-schematics/)
 - [Automate Timesheeting](http://www.pieterjd.be/posts/automate-timesheeting/)
 - [Deploy Hugo generated site to Github Pages - Part 2](http://www.pieterjd.be/posts/deploy-hugo-site-to-ghpages-part2/)
 - [Adventures with Microsoft Azure](http://www.pieterjd.be/posts/adventures-with-azure/)
-- [Hello World - Spring Cloud Version](http://www.pieterjd.be/posts/hello-world-spring-cloud-version/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://www.pieterjd.be)
