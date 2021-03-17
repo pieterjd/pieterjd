@@ -21,11 +21,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Simple Jackson Deserializer](http://www.pieterjd.be/posts/simple-jackson-deserializer/)
 - [Automate AEM development](http://www.pieterjd.be/posts/automate-aem-development/)
 - [Minified Javascript in AEM Clientlibs breaks the build](http://www.pieterjd.be/posts/minified-javascript-in-aem-clientlib/)
 - [Automate Angular Material Workflow using Schematics](http://www.pieterjd.be/posts/automate-angular-material-workflow-with-schematics/)
 - [Automate Timesheeting](http://www.pieterjd.be/posts/automate-timesheeting/)
-- [Deploy Hugo generated site to Github Pages - Part 2](http://www.pieterjd.be/posts/deploy-hugo-site-to-ghpages-part2/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://www.pieterjd.be)
