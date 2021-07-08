@@ -21,11 +21,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Reduce docker ps Output Clutter with AWK](https://www.pieterjd.be/posts/reduce-docker-ps-clutter-with-awk/)
 - [Summarize Latest Changes In Your Codebase](https://www.pieterjd.be/posts/summarize-latest-changes-in-your-codebase/)
 - [Simple Jackson Deserializer](https://www.pieterjd.be/posts/simple-jackson-deserializer/)
 - [Automate AEM development](https://www.pieterjd.be/posts/automate-aem-development/)
 - [Minified Javascript in AEM Clientlibs breaks the build](https://www.pieterjd.be/posts/minified-javascript-in-aem-clientlib/)
-- [Automate Angular Material Workflow using Schematics](https://www.pieterjd.be/posts/automate-angular-material-workflow-with-schematics/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://www.pieterjd.be)
