@@ -51,7 +51,8 @@
 ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-spring-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/jenkins-jenkins-2bbc8a)
+![](https://img.shields.io/badge/Tool-Jenkins-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Gitlab-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
 
 <!-- Frontend -->
 ![](https://img.shields.io/badge/Frontend-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
