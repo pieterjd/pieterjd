@@ -21,11 +21,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Debug Maven plugins](https://www.pieterjd.be/posts/debug-maven-plugin/)
+- [Sneak Preview of Devoxx.be 2022 talks](https://www.pieterjd.be/posts/sneak-preview-devoxxbe-2022-talks/)
 - [Proper JMS conversion to POJOs](https://www.pieterjd.be/posts/jms-property-name-must-not-be-null/)
 - [Reduce docker ps Output Clutter with AWK](https://www.pieterjd.be/posts/reduce-docker-ps-clutter-with-awk/)
 - [Summarize Latest Changes In Your Codebase](https://www.pieterjd.be/posts/summarize-latest-changes-in-your-codebase/)
-- [Templating as Automation](https://www.pieterjd.be/posts/templating/)
-- [Simple Jackson Deserializer](https://www.pieterjd.be/posts/simple-jackson-deserializer/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://www.pieterjd.be)
