@@ -5,7 +5,8 @@
 -->
 
 - 🔭 I’m currently working on a sideproject during my free time
-- 🌱 -I’m currently learning AEM for the renewal of my certificate- I passed the exam, I'm now a certified Adobe Experience Manager Developer! 🥇🕺
+- 🌱 I’m currently learning AEM for the renewal of my certificate- I passed the exam, I'm now a certified Adobe Experience Manager Developer! 🥇🕺
+- 💬 I'm aiming to speak at more conferences. After many attempts, I succeeded to speak at Devoxx Poland 2021 and I will be speaking at Devoxx Belgium 2022!
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -50,6 +51,7 @@
 ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-spring-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/jenkins-jenkins-2bbc8a)
 
 <!-- Frontend -->
 ![](https://img.shields.io/badge/Frontend-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
