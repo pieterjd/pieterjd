@@ -22,11 +22,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Inject Page via path using Sling Model](https://www.pieterjd.be/posts/sling-model-inject-page-via-path/)
 - [Debug Maven plugins](https://www.pieterjd.be/posts/debug-maven-plugin/)
 - [Sneak Preview of Devoxx.be 2022 talks](https://www.pieterjd.be/posts/sneak-preview-devoxxbe-2022-talks/)
 - [Proper JMS conversion to POJOs](https://www.pieterjd.be/posts/jms-property-name-must-not-be-null/)
-- [Reduce docker ps Output Clutter with AWK](https://www.pieterjd.be/posts/reduce-docker-ps-clutter-with-awk/)
-- [Summarize Latest Changes In Your Codebase](https://www.pieterjd.be/posts/summarize-latest-changes-in-your-codebase/)
+- [Mockaroo Intro - Generate Person Data](https://www.pieterjd.be/posts/mockaroo-intro-generate-person-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://www.pieterjd.be)
