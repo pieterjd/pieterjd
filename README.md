@@ -22,11 +22,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Disable Cache for Some Components in AEM](https://www.pieterjd.be/posts/aem-disable-cache-for-some-components/)
+- [Detect duplicates with JQ](https://www.pieterjd.be/posts/detect-duplicates-with-jq/)
 - [Authenticated Azure Function App](https://www.pieterjd.be/posts/azure-authenticated-function-app/)
 - [Inject Page via path using Sling Model](https://www.pieterjd.be/posts/sling-model-inject-page-via-path/)
 - [Debug Maven plugins](https://www.pieterjd.be/posts/debug-maven-plugin/)
-- [Sneak Preview of Devoxx.be 2022 talks](https://www.pieterjd.be/posts/sneak-preview-devoxxbe-2022-talks/)
-- [Proper JMS conversion to POJOs](https://www.pieterjd.be/posts/jms-property-name-must-not-be-null/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://www.pieterjd.be)
