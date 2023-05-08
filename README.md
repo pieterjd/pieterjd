@@ -22,11 +22,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Comparator and Null](https://www.pieterjd.be/posts/comparator-and-null/)
+- [Jpa Native Updates](https://www.pieterjd.be/posts/jpa-native-updates/)
 - [Disable Cache for Some Components in AEM](https://www.pieterjd.be/posts/aem-disable-cache-for-some-components/)
 - [Detect duplicates with JQ](https://www.pieterjd.be/posts/detect-duplicates-with-jq/)
 - [Authenticated Azure Function App](https://www.pieterjd.be/posts/azure-authenticated-function-app/)
-- [Inject Page via path using Sling Model](https://www.pieterjd.be/posts/sling-model-inject-page-via-path/)
-- [Debug Maven plugins](https://www.pieterjd.be/posts/debug-maven-plugin/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://www.pieterjd.be)
