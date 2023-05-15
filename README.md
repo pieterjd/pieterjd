@@ -22,11 +22,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Format and Highlight XML in the terminal](https://www.pieterjd.be/posts/cli-xml-formatting-highlighting/)
 - [Comparator and Null](https://www.pieterjd.be/posts/comparator-and-null/)
 - [Jpa Native Updates](https://www.pieterjd.be/posts/jpa-native-updates/)
 - [Disable Cache for Some Components in AEM](https://www.pieterjd.be/posts/aem-disable-cache-for-some-components/)
 - [Detect duplicates with JQ](https://www.pieterjd.be/posts/detect-duplicates-with-jq/)
-- [Authenticated Azure Function App](https://www.pieterjd.be/posts/azure-authenticated-function-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://www.pieterjd.be)
