@@ -22,11 +22,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Advanced Grouping with Java streams](https://www.pieterjd.be/posts/java-stream-advanced-grouping/)
 - [Format and Highlight XML in the terminal](https://www.pieterjd.be/posts/cli-xml-formatting-highlighting/)
 - [Comparator and Null](https://www.pieterjd.be/posts/comparator-and-null/)
 - [Jpa Native Updates](https://www.pieterjd.be/posts/jpa-native-updates/)
 - [Disable Cache for Some Components in AEM](https://www.pieterjd.be/posts/aem-disable-cache-for-some-components/)
-- [Detect duplicates with JQ](https://www.pieterjd.be/posts/detect-duplicates-with-jq/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://www.pieterjd.be)
