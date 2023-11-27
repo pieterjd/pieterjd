@@ -22,11 +22,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Algorithm is 1,606,240% FASTER!](https://www.pieterjd.be/posts/this-algorithm-is-1606240-percent-faster/)
 - [Wiremock in 2 minutes](https://www.pieterjd.be/posts/wiremock-in-2-minutes/)
 - [Sentry Sprint Boot Global Handler](https://www.pieterjd.be/posts/sentry-sprint-boot-global-handler/)
 - [Fallback Mechanism With Streams](https://www.pieterjd.be/posts/fallback-mechanism-with-streams/)
 - [Advanced Grouping with Java streams](https://www.pieterjd.be/posts/java-stream-advanced-grouping/)
-- [Format and Highlight XML in the terminal](https://www.pieterjd.be/posts/cli-xml-formatting-highlighting/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://www.pieterjd.be)
