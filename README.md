@@ -22,11 +22,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Speedup Writing Tests with Wiremock Spring Boot Voxxed Days Brussels 2024](https://www.pieterjd.be/talks/speedup-writing-tests-with-wiremock-spring-boot-voxxeddays-brussels-2024/)
 - [Add caching to Java&#39;s HttpClient](https://www.pieterjd.be/posts/decorator-httpclient/)
 - [This Algorithm is 1,606,240% FASTER!](https://www.pieterjd.be/posts/this-algorithm-is-1606240-percent-faster/)
 - [Wiremock in 2 minutes](https://www.pieterjd.be/posts/wiremock-in-2-minutes/)
 - [Sentry Sprint Boot Global Handler](https://www.pieterjd.be/posts/sentry-sprint-boot-global-handler/)
-- [Fallback Mechanism With Streams](https://www.pieterjd.be/posts/fallback-mechanism-with-streams/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](http://www.pieterjd.be)
